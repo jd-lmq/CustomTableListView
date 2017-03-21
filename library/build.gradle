@@ -1,4 +1,5 @@
 apply plugin: 'com.android.library'
+apply from: 'https://raw.github.com/jd-lmq/gradle-mvn-push/master/aar-mvn-push.gradle'
 
 android {
     compileSdkVersion 23
